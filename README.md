@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eltrojan
-- My name is Abdallah Masri, Palestinian, Ethical Hacker and Cyber Security Engineer.
+- My name is Abdallah Masri, Palestinian, Ethical Hacker and Cyber Security Engineerو I am Bug hunter at HackerOne platform
 - 👀 I’m interested in Cyber Security, Hacking, Bug Hunting, Scripting, Web Development, Mobile Apps Development
 - 🌱 I’m currently learning larave, Dart, and Ecppt.
 - 📫 How to reach me : 
