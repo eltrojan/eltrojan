@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Trojan's+World)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @eltrojan
 - My name is Abdallah Masri, Palestinian, Ethical Hacker and Cyber Security Engineerو I am Bug hunter at HackerOne platform
 - 👀 I’m interested in Cyber Security, Hacking, Bug Hunting, Scripting, Web Development, Mobile Apps Development
