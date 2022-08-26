@@ -4,13 +4,9 @@
 - 👀 I’m interested in Cyber Security, Hacking, Bug Hunting, Scripting, Web Development, Mobile Apps Development
 - 🌱 I’m currently learning larave, Dart, and Ecppt.
 - 📫 How to reach me : 
--  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
- linkedin.com/in/abdallah-masri.
-- ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
- Abdallah_Sec@outlook.sa.
--  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-  @eltrojan0x07
-- ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) Abdallah0x07
+-  <a href="https://linkedin.com/in/abdallah-masri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- <a href="https://t.me/eltrojan0x07"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+- <a href="https://twitter.com/abdallah0x07"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 
 <!---
