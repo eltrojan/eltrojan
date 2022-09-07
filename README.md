@@ -12,7 +12,7 @@
 eltrojan/eltrojan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Alt Text](https://media.giphy.com/media/MKSMnH8e8S6QlY32e6/giphy.gif)
+![Alt Text](https://media.giphy.com/media/YFI7M6tOGhWh5gguL1/giphy.gif)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltrojan&show_icons=true&theme=aura)
 
