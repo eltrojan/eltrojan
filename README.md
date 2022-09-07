@@ -8,11 +8,12 @@
 - <a href="https://t.me/eltrojan0x07"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 - <a href="https://twitter.com/abdallah0x07"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
-
 <!---
 eltrojan/eltrojan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Alt Text](https://media.giphy.com/media/MKSMnH8e8S6QlY32e6/giphy.gif)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltrojan&show_icons=true&theme=aura)
 
 ![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)
