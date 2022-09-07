@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Burned&size=22&duration=2500&pause=500&color=31C12F&background=FF753C00&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+To+Trojan's+World)](https://git.io/typing-svg)
 - 👋 Hi, I’m @eltrojan
-- My name is Abdallah Masri, Palestinian, Ethical Hacker and Cyber Security Engineerو I am Bug hunter at HackerOne platform
+- My name is Abdallah Masri, Palestinian, Ethical Hacker and Cyber Security Engineer, I am Bug hunter at HackerOne platform
 - 👀 I’m interested in Cyber Security, Hacking, Bug Hunting, Scripting, Web Development, Mobile Apps Development
-- 🌱 I’m currently learning larave, Dart, and Ecppt.
+- 🌱 I’m currently learning laravel, Dart, and Ecppt.
 - 📫 How to reach me : 
 -  <a href="https://linkedin.com/in/abdallah-masri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 - <a href="https://t.me/eltrojan0x07"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
